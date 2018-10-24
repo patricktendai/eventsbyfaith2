@@ -1,0 +1,16 @@
+body,
+html,
+header,
+#intro{
+    height: 100%;
+}
+.nav{
+    padding: 10px;
+}
+#intro{
+    background: url("img/w.jpg")repeat  center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover; 
+}

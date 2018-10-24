@@ -1,0 +1,56 @@
+body,
+html,
+header,
+#intro{
+    height: 100%;
+}
+main{
+background:url("img/s.jpg")no-repeat center center fixed;
+}
+
+
+#intro{
+    background: url("img/f.jpg")no-repeat center center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover; 
+     
+}
+h1{
+    color: rgb(238, 175, 238);
+}
+.jumbotron{
+    background-color: rgba(163, 47, 138, 0.611);
+    color: white;
+}
+
+h1{
+    color: black;
+}
+.jumbotron .btn{
+    background-color: white;
+    color: black;
+}
+.footer{
+    background: rgba(163, 47, 138, 0.811);
+    color: white;
+    padding: 10px;
+}
+.header{
+    padding-top: 50px;
+    background:rgba(0,0,0, 0.3);
+    width: 1000px;
+    color: white;
+    align-items: center;
+    
+}
+.navbar-custom{
+    background: rgba(163, 47, 138, 0.811);
+    color: white;
+}
+.navbar-custom a{
+    color: white;
+}
+
+
